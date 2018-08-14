@@ -15,7 +15,7 @@ class PageBody extends Component {
   }
 
   _onGetFactClick() {
-    fetch('http://localhost:4000/facts/dino', {
+    fetch('http://localhost:4000/facts/whale', {
       dataType: 'JSON',
       headers: {
         'Content-Type': 'application/json',
