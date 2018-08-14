@@ -1,14 +1,19 @@
+.PageBody {
+  color: #53a9ef;
+}
+
 button {
-  color: forestgreen;
+  color: #103572;
   border-radius: 0.3em;
   font-weight: bold;
   height: 3em;
   margin-top: 3em;
   width: 20em;
+  outline: none;
 }
 
 button:hover {
-  background-color: forestgreen;
+  background-color: #103572;
   color: white;
 }
 
