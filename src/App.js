@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import PageBody from './PageBody';
 
-import dino from './assets/dino.png';
+import whale from './assets/whale.png';
 import './assets/App.css';
 
 class App extends Component {
@@ -10,8 +10,8 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={dino} alt="dino" className="App-dino" />
-          <h1 className="App-title">Dinosaur Fact Generator</h1>
+          <img src={whale} alt="whale" className="App-whale" />
+          <h1 className="App-title">Whale Fact Generator</h1>
         </header>
         <PageBody />
       </div>

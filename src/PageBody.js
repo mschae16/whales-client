@@ -9,7 +9,7 @@ class PageBody extends Component {
 
   state = {
     fact: {
-      title: 'Click the button to get a dino fact!',
+      title: 'Click the button to get a whale fact!',
       text: ''
     }
   }
