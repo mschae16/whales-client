@@ -41,4 +41,4 @@ const Facts = [
   }
 ]
 
-export default Facts
+export default Facts;
