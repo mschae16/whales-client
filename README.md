@@ -3,7 +3,7 @@
 
 This is a small react application which will generate whale facts when clicking a button.
 
-![](http://g.recordit.co/XQz8PO2NIY.gif)
+![](http://g.recordit.co/N5JFCyoF7u.gif)
 
 ---
 
